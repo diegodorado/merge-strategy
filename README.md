@@ -1,1 +1,3 @@
 # merge-strategy
+
+modified readme
